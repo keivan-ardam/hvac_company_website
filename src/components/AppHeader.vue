@@ -1,6 +1,6 @@
 <template>
   <header
-    class="flex justify-between items-center p-1 fixed top-10 left-1/2 transform -translate-x-1/2 z-50 bg-white shadow-md w-[95vw] border rounded-xl"
+    class="w-full md:w-[85vw] flex flex-col-reverse md:flex-row justify-between md:items-center p-1 md:fixed top-10 md:left-1/2 transform md:-translate-x-1/2 z-50 bg-white shadow-md border rounded-lg"
   >
     <nav>
       <ul
