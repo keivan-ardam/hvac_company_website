@@ -17,13 +17,13 @@
         NVLV Heating & Cooling llc
       </h1>
       <p class="text-lg sm:text-xl font-medium drop-shadow-md">
-        Our mission at Arctic Air is to provide superior air conditioning and
-        heating services to our customers with a commitment to quality,
-        innovation, and sustainability. As local HVAC Company Lancaster CA, we
-        strive to create comfortable and energy-efficient indoor environments
-        for homes and businesses across the region. We are dedicated to staying
-        ahead of the curve in our industry, utilizing cutting-edge technology
-        and methods to exceed our client’s expectations.
+        Our mission at NVLV Heating & Cooling is to provide superior air
+        conditioning and heating services to our customers with a commitment to
+        quality, innovation, and sustainability. As local HVAC Company Lancaster
+        CA, we strive to create comfortable and energy-efficient indoor
+        environments for homes and businesses across the region. We are
+        dedicated to staying ahead of the curve in our industry, utilizing
+        cutting-edge technology and methods to exceed our client’s expectations.
       </p>
     </div>
   </section>
