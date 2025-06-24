@@ -1,4 +1,4 @@
-# hvac_company
+# hvac_company_website
 
 ## Project setup
 
