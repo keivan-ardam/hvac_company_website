@@ -2,7 +2,8 @@ const { defineConfig } = require("@vue/cli-service");
 const webpack = require("webpack");
 
 module.exports = defineConfig({
-  publicPath: process.env.NODE_ENV === "production" ? "/hvac_company/" : "/",
+  publicPath:
+    process.env.NODE_ENV === "production" ? "/hvac_company_website/" : "/",
   devServer: {
     port: 8080,
     allowedHosts: "all",
