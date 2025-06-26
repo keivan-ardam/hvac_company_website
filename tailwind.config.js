@@ -11,6 +11,9 @@ module.exports = {
         cool: "#38BDF8",
         cold: "#3B82F6",
       },
+      backgroundImage: {
+        "custom-blue": "linear-gradient(to right, #1E7BAF, #0F3A4C)",
+      },
       gradientColorStops: (theme) => ({
         ...theme("colors"),
         heat: "#EF4444",

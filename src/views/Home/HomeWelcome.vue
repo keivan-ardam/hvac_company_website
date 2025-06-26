@@ -1,12 +1,7 @@
 <template>
   <section
-    class="relative w-full h-[110vh] bg-cool flex items-center px-8 sm:px-16 md:px-28"
+    class="relative w-full h-[110vh] bg-custom-blue flex items-center px-8 sm:px-16 md:px-28"
   >
-    <!-- Overlay -->
-    <div
-      class="absolute inset-0 bg-gradient-to-r from-black/40 to-black/70 z-0"
-    ></div>
-
     <!-- Content -->
     <div class="relative z-10 max-w-3xl mt-10">
       <h1

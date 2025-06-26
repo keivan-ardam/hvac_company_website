@@ -1,6 +1,6 @@
 <template>
   <section
-    class="relative w-full h-[110vh] bg-cover bg-center flex items-center px-8 sm:px-16 md:px-28 text-white"
+    class="relative w-full h-[110vh] bg-cover bg-center flex items-center justify-center lg:justify-start px-8 sm:px-16 md:px-28 text-white"
     :style="`background-image: url(${bgImage})`"
   >
     <!-- Overlay -->
@@ -9,7 +9,9 @@
     ></div>
 
     <!-- Content -->
-    <div class="relative z-10 max-w-xl mt-10">
+    <div
+      class="relative z-10 max-w-xl mt-10 flex flex-col items-center lg:items-start justify-center lg:justify-left"
+    >
       <h1 class="text-3xl sm:text-4xl font-bold mb-4 drop-shadow-lg">
         HVAC Installation Company
       </h1>

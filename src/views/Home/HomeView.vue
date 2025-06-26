@@ -1,7 +1,7 @@
 <template>
   <main class="relative">
-    <HomeQuote />
     <HomeHero />
+    <HomeQuote />
     <HomeWelcome />
   </main>
 </template>
