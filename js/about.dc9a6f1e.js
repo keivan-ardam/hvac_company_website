@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunkhvac_company_website"]=self["webpackChunkhvac_company_website"]||[]).push([[594],{9724:function(n,a,e){e.r(a),e.d(a,{default:function(){return o}});var s=e(6768);const t={class:"about"};function i(n,a){return(0,s.uX)(),(0,s.CE)("div",t,a[0]||(a[0]=[(0,s.Lk)("h1",null,"This is an about page",-1),(0,s.Lk)("div",{class:"bg-primary text-white p-4 rounded-xl shadow"}," Tailwind is working! 🎉 ",-1)]))}var r=e(1241);const u={},c=(0,r.A)(u,[["render",i]]);var o=c}}]);
-//# sourceMappingURL=about.d10096de.js.map
+//# sourceMappingURL=about.dc9a6f1e.js.map
