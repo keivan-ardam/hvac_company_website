@@ -12,7 +12,7 @@ module.exports = {
         cold: "#3B82F6",
       },
       backgroundImage: {
-        "custom-blue": "linear-gradient(to right, #1E7BAF, #0F3A4C)",
+        "custom-blue": "linear-gradient(to right, #1E7BAF,rgb(31, 114, 150))",
       },
       gradientColorStops: (theme) => ({
         ...theme("colors"),
@@ -22,6 +22,9 @@ module.exports = {
         cool: "#38BDF8",
         cold: "#3B82F6",
       }),
+      fontFamily: {
+        jost: ["Jost"],
+      },
       fontSize: {
         "3xs": "0.5rem",
         "2xs": "0.625rem",

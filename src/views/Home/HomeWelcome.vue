@@ -1,9 +1,9 @@
 <template>
   <section
-    class="relative w-full h-[110vh] bg-custom-blue flex items-center px-8 sm:px-16 md:px-28"
+    class="relative w-full h-[140vh] bg-custom-blue flex items-center px-8 sm:px-16 md:px-28"
   >
     <!-- Content -->
-    <div class="relative z-10 max-w-3xl mt-10">
+    <div class="relative z-10 max-full lg:max-w-2xl mt-10">
       <h1
         class="text-2xl sm:text-3xl font-bold mb-8 drop-shadow-lg whitespace-nowrap"
       >
