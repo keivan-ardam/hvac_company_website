@@ -107,22 +107,3 @@
     <!-- Header Section with Image -->
   </div>
 </template>
-
-<script lang="ts">
-import { defineComponent } from "vue";
-
-export default defineComponent({
-  name: "NvlvHeatingContent",
-  methods: {
-    contactUs(): void {
-      // Implement contact logic here
-      console.log("Contact button clicked");
-      // You might want to route to a contact page or open a modal
-    },
-  },
-});
-</script>
-
-<style scoped>
-/* You can add custom styles here if needed */
-</style>
